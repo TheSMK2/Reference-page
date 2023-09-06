@@ -1,0 +1,15 @@
+
+
+
+h2
+{
+font-size: 16px;
+font-style: bold;
+
+margin: 15px;
+border-top: 1px solid black;
+border-bottom: 3px dotted blue:
+padding-left 30px;
+width: 300px;
+
+}
